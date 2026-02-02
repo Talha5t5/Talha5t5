@@ -210,11 +210,9 @@ Real-time voice transcription app with high accuracy.
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Talha5t5&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Talha5t5&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Talha5t5&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Talha5t5&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&custom_title=Contribution%20Activity%20Graph" />
 </div>
@@ -261,8 +259,4 @@ Real-time voice transcription app with high accuracy.
 <p align="center">
 <b>🔥 Open to freelance opportunities and collaborations 🔥</b><br/>
 <b>Let's build something amazing together!</b>
-</p>
-
-<p align="center">
-Made with ❤️ by <a href="https://github.com/talha-jabbar">Talha Jabbar</a>
 </p>
