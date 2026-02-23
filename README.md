@@ -216,6 +216,14 @@ Real-time voice transcription app with high accuracy.
 - ✅ Full-stack development with **MERN stack** (MongoDB, Express.js, React Native, Node.js)
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Talha5t5&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
 
 ### 📫 Connect With Me
 
